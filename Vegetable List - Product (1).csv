@@ -1,0 +1,163 @@
+Sr.,Category,HS Code,Product Name
+1,Vegetables,0121190,Acacia Leaves
+3,Vegetables,121190,Agave Leaves
+4,Vegetables,0121410,Alfalfa
+5,Vegetables,121190,Aloe Vera
+6,Vegetables,0121190,Amaranth Leaves
+7,Vegetables,070490,Arugula
+8,Vegetables,070490,Asian Green
+9,Vegetables,070999,Bamboo Shoot
+10,Vegetables,0140490,Betel
+11,Vegetables,070993,Bitter Gourd
+12,Vegetables,070490,Bok Choy
+13,Vegetables,070993,Bottle Gourd
+14,Vegetables,070420,Brussels Sprout
+15,Vegetables,071410,Cassava
+16,Vegetables,070959,Chanterelle Mushroom
+17,Vegetables,071080,Chard
+18,Vegetables,121294,Chicory Root
+19,Vegetables,121294,Chicory
+20,Vegetables,070490,Collard
+21,Vegetables,070951,Cremini Mushroom
+22,Vegetables,070690,Daikon
+23,Vegetables,070960,Dried Whole Chili Pepper
+24,Vegetables,070930,Eggplant
+25,Vegetables,070690,Elephant Foot Yam
+26,Vegetables,070390,Fennel
+27,Vegetables,070991,Fresh Artichoke
+28,Vegetables,070920,Fresh Asparagus
+29,Vegetables,070690,Fresh Beetroot
+30,Vegetables,070960,Fresh Bell Pepper
+31,Vegetables,070511,Fresh Cabbage
+32,Vegetables,070610,Fresh Carrot
+33,Vegetables,071410,Fresh Cassava
+34,Vegetables,070410,Fresh Cauliflower
+35,Vegetables,070940,Fresh Celery
+36,Vegetables,070993,Fresh Chayote
+37,Vegetables,070960,Fresh Chili Pepper
+38,Vegetables,070190,Fresh Common Potato
+39,Vegetables,070993,Fresh Common Pumpkin
+40,Vegetables,070700,Fresh Cucumber
+41,Vegetables,070959,Fresh Enoki Mushroom
+42,Vegetables,070320,Fresh Garlic
+43,Vegetables,070519,Fresh Head Lettuce
+44,Vegetables,070410,Fresh Headed Broccoli
+45,Vegetables,070993,Fresh Kabocha
+46,Vegetables,070959,Fresh King Oyster Mushroom
+47,Vegetables,070519,Fresh Lettuce
+48,Vegetables,071080,Fresh Okra
+49,Vegetables,070310,Fresh Onion
+50,Vegetables,070390,Fresh Scallion (Spring Onion)
+51,Vegetables,070310,Fresh Shallot
+52,Vegetables,071030,Fresh Spinach
+53,Vegetables,070200,Fresh Tomato
+54,Vegetables,070951,Fresh White Mushroom
+55,Vegetables,070993,Fresh Zucchini
+56,Vegetables,200490,Frozen Potato
+57,Vegetables,0121190,Galangal
+58,Vegetables,070490,Garden Cress
+59,Vegetables,070390,Garlic Chive
+60,Vegetables,0121120,Ginseng
+61,Vegetables,070960,Habanero
+62,Vegetables,0200891,Heart of Palm
+63,Vegetables,070959,Hedgehog Mushroom
+64,Vegetables,070959,Hericium Mushroom
+65,Vegetables,121000,Hop
+66,Vegetables,070690,Horseradish
+67,Vegetables,070993,Ivy Gourd
+68,Vegetables,071490,Jerusalem Artichoke
+69,Vegetables,070490,Kale
+70,Vegetables,071080,Kangkong
+71,Vegetables,070490,Kohlrabi
+72,Vegetables,121190,Korean Perilla Leaves
+73,Vegetables,071420,Kumara
+74,Vegetables,070390,Leek
+75,Vegetables,070820,Long Bean
+76,Vegetables,070690,Maca
+77,Vegetables,121190,Mango Leaves
+78,Vegetables,070690,Melloco
+79,Vegetables,071080,Microgreen
+80,Vegetables,0121190,Moringa
+81,Vegetables,070490,Mustard Greens
+82,Vegetables,071080,Nopal Cactus
+83,Vegetables,070992,Olive
+84,Vegetables,070959,Other Fresh Mushrooms
+85,Vegetables,070993,Other Squash & Other Pumpkin
+86,Vegetables,071430,Other Starchy Roots & Tubers
+87,Vegetables,070960,Other Sweet Pepper
+88,Vegetables,070959,Oyster Mushroom
+89,Vegetables,070690,Parsnip
+90,Vegetables,070310,Pearl Onion
+91,Vegetables,070993,Pointed Gourd
+92,Vegetables,070959,Poplar Mushroom
+93,Vegetables,070951,Portobello Mushroom
+94,Vegetables,070690,Radish
+95,Vegetables,070490,Rapini
+96,Vegetables,071080,Rhubarb
+97,Vegetables,070993,Ridge Gourd
+98,Vegetables,070690,Rutabaga
+99,Vegetables,070690,Salsify
+100,Vegetables,070110,Seed Potato
+101,Vegetables,070959,Shiitake Mushroom
+102,Vegetables,070959,Shimeji Mushroom
+103,Vegetables,070993,Snake Gourd
+104,Vegetables,071080,Snow Pea Sprout
+105,Vegetables,071080,Sorrel
+106,Vegetables,070993,Sponge Gourd
+107,Vegetables,071080,Sprouted Bean
+108,Vegetables,070993,Squash
+109,Vegetables,121291,Sugar Beet
+110,Vegetables,0121293,Sugarcane
+111,Vegetables,071420,Sweet Potato
+112,Vegetables,071440,Taro
+113,Vegetables,071080,Tomatillo
+114,Vegetables,070959,Truffle
+115,Vegetables,070610,Turnip
+116,Vegetables,121190,Vine Leaves
+117,Vegetables,071080,Water Chestnut
+118,Vegetables,070490,Watercress
+119,Vegetables,091011,Whole Ginger
+120,Vegetables,071232,Woodear Mushroom
+121,Vegetables,071430,Yam
+122,Vegetables,071450,Yautia
+123,Vegetables,070690,Celeriac
+124,Vegetables,070490,Choy Sum
+125,Vegetables,070490,Land Cress
+126,Vegetables,070511,Lamb's Lettuce
+127,Vegetables,070690,Greater Burdock Root
+128,Vegetables,070490,Mizuna
+129,Vegetables,030711,Indian Oyster
+130,Vegetables,070959,Porcini Mushroom
+131,Vegetables,070959,Maitake Mushroom
+132,Vegetables,070490,Japanese Mustard Spinach
+133,Vegetables,121190,Licorice Root
+134,Vegetables,071080,Mung Bean Sprout
+135,Vegetables,070959,Morel Mushroom
+136,Vegetables,070690,Lotus Root
+137,Vegetables,071490,Arrowroot
+138,Vegetables,070959,Straw Mushroom
+139,Vegetables,070959,Black Trumpet Mushroom
+140,Vegetables,071080,Culantro
+141,Vegetables,071080,Purslane
+142,Vegetables,070310,Chinese Onion
+143,Vegetables,070490,Tatsoi
+144,Vegetables,071080,Flat Leaf Parsley
+145,Vegetables,070521,Fresh Witloof Chicory
+146,Vegetables,070390,Ramsons
+147,Vegetables,070310,Wakegi Onion
+148,Vegetables,071080,Molokhia
+149,Vegetables,121120,Malaysian Ginseng
+150,Vegetables,070959,Lion's Mane Mushroom
+151,Vegetables,070959,Nameko Mushroom
+152,Vegetables,080290,Tiger Nut
+153,Vegetables,071080,Caper
+154,Vegetables,070959,Chaga Mushroom
+155,Vegetables,070959,Veiled Oyster Mushroom
+156,Vegetables,071080,Nettle
+157,Vegetables,121190,Blessed Thistle
+158,Vegetables,121299,Japanese Spikenard
+159,Vegetables,070490,Broccolini
+160,Vegetables,070690,Konjac
+161,Vegetables,070690,Arracacha
+162,Vegetables,071080,Achiote
+163,Vegetables,140490,Nanohana
